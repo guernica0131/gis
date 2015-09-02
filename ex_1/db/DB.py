@@ -67,8 +67,8 @@ def getDB():
 	return db()
 
 # #FOR DEV
-dB = db()
-dB.connect()
-dB.init()
-dB.register()
-dB.parseShape()
+# dB = db()
+# dB.connect()
+# dB.init()
+# dB.register()
+# dB.parseShape()
